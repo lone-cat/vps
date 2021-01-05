@@ -1,0 +1,3 @@
+USER=$(id -u -n)
+UID=$(id -u)
+GID=$(id -g)
